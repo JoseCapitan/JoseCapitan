@@ -20,7 +20,7 @@ Experience building reusable components, consuming REST APIs and working with Do
 - 🛠 Open to collaborate on **open-source Angular projects** and **expand my skills in web development**.
 - 💻 Experienced with **Angular, HTML, CSS, JavaScript, TypeScript, Node.js, Symfony, PHP, PostgreSQL, MySQL, Docker, Linux, Git, VSCode, Postman, DBeaver**, and tools like **Figma** for design.
 - 📂 Always exploring **new technologies** and ways to optimize workflows and project delivery.
-- 🔗 Visit my [Portfolio](https://your-portfolio-link) for more details and projects.
+- 🔗 Visit my [Portfolio](jose-capitan.netlify.app) for more details and projects.
 
 <!--End Intro-->
 
