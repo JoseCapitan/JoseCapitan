@@ -1,5 +1,5 @@
 <!--Banner-->
-![JoseCapitan Banner Image](https://github.com/JoseCapitan/JoseCapitan/blob/main/bannerjcapi.png?raw=true)
+![JoseCapitan Banner Image](https://github.com/JoseCapitan/JoseCapitan/blob/main/bannercapi.png?raw=true)
 
 <!--Night Owl image-->
 <div>
